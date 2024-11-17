@@ -9,12 +9,10 @@ This project enables seamless handling of both historical and current employee d
 The system is equipped with the following core functionalities:
 
 * Employee Registration: Register new employees with all necessary details.
-* Search Employee Details: Search for employees by EPF number or name.
+* Search Employee Details: Search for employees by EPF number.
 * Update and Delete Employee Details: Modify or remove existing employee records as needed.
 * Daily Attendance Calculation: Track and calculate employees' daily attendance.
 * Salary Calculation: Automatically calculate salaries, including allowances and deductions.
-
-![login](https://github.com/user-attachments/assets/ee479161-5378-407d-a0e7-e841d24faf22)
 
 ![emp_edit](https://github.com/user-attachments/assets/564b73e6-4d1d-4aa7-9f5c-da1b0c4ae96f)
 
