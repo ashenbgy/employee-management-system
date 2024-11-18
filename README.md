@@ -1,7 +1,7 @@
 # Employee Management System 
 
 # Project Description
-The Employee Management System is a software solution designed to streamline employee data management for both private and public sectors. It provides an efficient, user-friendly interface to manage employee-related data in a structured and systematic manner. By automating routine tasks, this system reduces the time and effort required by database administrators, enhances operational efficiency, and minimizes costs associated with manual processes.
+The Employee Management System is a desktop application designed to streamline employee data management for organizations. It provides an efficient, user-friendly interface to manage employee-related data in a structured and systematic manner. By automating routine tasks, this system reduces the time and effort required by database administrators, enhances operational efficiency, and minimizes costs associated with manual processes.
 
 This project enables seamless handling of both historical and current employee data, offering vivid insights into past records while simplifying present-day employee management tasks. The system ensures smooth data collection and management, significantly improving overall organizational workflows.
 
